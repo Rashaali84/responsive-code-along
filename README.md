@@ -80,7 +80,7 @@ Practice building a responsive web page using semantic layout and incremental de
 * [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
 * [CSS Positioning](https://css-tricks.com/almanac/properties/p/position/)
 
-### Inspecting the DOM
+### Inspecting the DOM 
 
 * [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)
 * [Inspecting the DOM?](https://hackyourfuture.be/inspecting-the-dom)
